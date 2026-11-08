@@ -13,28 +13,25 @@
 
 ---
 
+
 ## 👨‍💻 About Me
 
 I'm pursuing a **Bachelor of Science in Information Technology**, with a concentration in **Data Analytics**, at **Southern New Hampshire University (SNHU)**.
 
 I'm passionate about software development, data analytics, automation, and creating practical digital solutions.
 
-Through **AMKINO**, I explore technologies, build applications, experiment with new ideas, and continuously expand my technical skills.
+Through **AMKINO**, I develop applications, explore emerging technologies, and turn creative ideas into practical projects that strengthen my technical expertise.
 
-My goal is to grow into a skilled IT and data analytics professional while developing meaningful and accessible technology.
+My goal is to build a career in IT and Data Analytics while developing meaningful, accessible, and innovative technology.
 
 ---
 
 ## 🏅 Academic Achievements
 
-I am pursuing a Bachelor of Science in Information Technology,
-with a concentration in Data Analytics, at Southern New Hampshire
-University (SNHU).
+My academic journey reflects my commitment to continuous learning, professional growth, and technical development.
 
-My academic journey and recognition are featured on my
-Merit Pages profile.
-
-🎓 [View My Academic Profile & Achievements](https://meritpages.com/Noureddine.kiche)
+🎓 **Academic Profile:**
+[View My Merit Pages Profile](https://meritpages.com/Noureddine.kiche)
 
 ---
 

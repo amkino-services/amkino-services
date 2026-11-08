@@ -25,6 +25,19 @@ My goal is to grow into a skilled IT and data analytics professional while devel
 
 ---
 
+## 🏅 Academic Achievements
+
+I am pursuing a Bachelor of Science in Information Technology,
+with a concentration in Data Analytics, at Southern New Hampshire
+University (SNHU).
+
+My academic journey and recognition are featured on my
+Merit Pages profile.
+
+🎓 [View My Academic Profile & Achievements](https://meritpages.com/Noureddine.kiche)
+
+---
+
 ## 🛠️ Technologies & Skills
 
 **Programming:** Python · SQL · Dart · JavaScript · HTML · CSS

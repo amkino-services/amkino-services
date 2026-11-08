@@ -1,10 +1,11 @@
+
 <div align="center">
 
 # Hi, I'm Noureddine Kiche 👋
 
-### IT & Data Analytics Student · Developer · Creator of AMKINO
+### IT & Data Analytics Student | Software Developer | Creator of AMKINO
 
-*Building thoughtful digital tools, learning through real projects, and turning ideas into practical solutions.*
+*Turning ideas into useful digital experiences — one project at a time.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-amkino--services-181717?style=for-the-badge&logo=github)](https://github.com/amkino-services)
 
@@ -14,49 +15,146 @@
 
 ## 👨‍💻 About Me
 
-I'm pursuing a **B.S. in Information Technology**, with a concentration in **Data Analytics**, at **Southern New Hampshire University (SNHU)**.
+I'm pursuing a **Bachelor of Science in Information Technology**, with a concentration in **Data Analytics**, at **Southern New Hampshire University (SNHU)**.
 
-My interests span data analysis, software development, web technologies, and practical automation. I enjoy learning by building: experimenting, solving problems, and refining projects into tools people can use.
+I'm passionate about software development, data analytics, automation, and creating practical digital solutions.
 
-**AMKINO** is the home for my creative and technical projects, where I bring together software, design, and analytical thinking.
+Through **AMKINO**, I explore technologies, build applications, experiment with new ideas, and continuously expand my technical skills.
+
+My goal is to grow into a skilled IT and data analytics professional while developing meaningful and accessible technology.
+
+---
 
 ## 🛠️ Technologies & Skills
 
-**Data & analytics:** Python · SQL · Excel · Statistics · Data Visualization
+**Programming:** Python · SQL · Dart · JavaScript · HTML · CSS
 
-**Development:** Dart · Flutter · REST APIs · HTML · CSS · JavaScript
+**Development:** Flutter · Astro · REST APIs · PostgreSQL
 
-**Tools & platforms:** Git · GitHub · PostgreSQL · Cloudflare · macOS
+**Data Analytics:** Python · Excel · Statistics · Data Cleaning · Data Visualization
 
-## 🚀 Selected Projects
+**Tools & Platforms:** Git · GitHub · WordPress · Cloudflare · macOS · Linux
 
-### 📊 Retail Business Analytics
-An analytics portfolio project focused on preparing, examining, and interpreting transactional retail data.
+**Exploring:** Local AI · Multi-Agent Systems · Automation · Smart TV Development
 
-### 📱 Bahá’í Prayers — Arabic
-An Arabic-first Flutter application designed for reading and organizing prayers, with right-to-left support and reader-focused features.
+---
+
+## 🚀 Featured Projects
+
+| Project | Technologies / Focus | Status |
+|---|---|---|
+| 📱 **Bahá’í Prayers Arabic** | Flutter Mobile App | Released |
+| 🌐 **Bahá’í Lighthouse** | Web Platform | Active |
+| 📅 **Bahá’í Events Arabic** | Flutter, Python, PostgreSQL | In Development |
+| 📊 **Retail Business Analytics** | Python, Statistics, Data Analytics | In Progress |
+| 💻 **AMKINO Portfolio** | Astro, Web Development | In Development |
+| 📺 **NEOMEDIA** | Smart TV Interface, Python, Tizen | Prototype |
+| 🤖 **AI Council** | Local AI, Python, Multi-Agent Systems | Prototype |
+| 📚 **Sayfee Editorial** | WordPress, Digital Publishing | In Development |
+| ⚙️ **Buho Launchpad Organizer** | Python, macOS Automation | Working Prototype |
+
+---
+
+## 📂 Project Details
+
+### 📱 Bahá’í Prayers Arabic
+**Status: Released**
+
+An Arabic-first Flutter mobile application designed to make Bahá’í prayers accessible through an intuitive right-to-left reading experience.
+
+Features include favorites, bookmarks, obligatory prayers, and other reader-focused tools.
+
+**Technologies:** Flutter, Dart
 
 ### 🌐 Bahá’í Lighthouse
-A web platform for Arabic-speaking communities, featuring resources and practical digital tools.
+**Status: Active**
 
-### 📅 Bahá’í Events — Arabic
-A Flutter and Python-based project for exploring historical events and their sources.
+A web platform created to serve Arabic-speaking Bahá’í communities with educational resources, calendars, practical tools, and community-oriented content.
 
-> More project links and demos will be added as they become ready for public viewing.
+**Technologies:** Web Development, Cloudflare
 
-## 🌱 Currently Growing
+**Website:** https://bahai-lighthouse.com
 
-I'm deepening my skills in **Python, SQL, statistics, data analytics, and software development**, while building a portfolio that demonstrates applied problem-solving.
+### 📅 Bahá’í Events Arabic
+**Status: In Development**
 
-## 🤝 Connect
+An application for exploring Bahá’í historical events, supported by structured historical data and source references.
 
-- **GitHub:** [@amkino-services](https://github.com/amkino-services)
-- **Portfolio:** Coming soon
+**Technologies:** Flutter, Python, FastAPI, PostgreSQL
+
+### 📊 Retail Business Analytics
+**Status: In Progress**
+
+A data analytics portfolio project exploring transactional retail data, including data preparation, statistical analysis, and business insights.
+
+**Technologies:** Python, SQL, Statistics, Data Analytics
+
+### 💻 AMKINO Portfolio
+**Status: In Development**
+
+A personal developer portfolio designed to showcase software projects, technical skills, and data analytics work.
+
+**Technologies:** Astro, HTML, CSS, JavaScript
+
+### 📺 NEOMEDIA
+**Status: Prototype**
+
+A custom smart TV interface exploring a unified entertainment experience, navigation, and local device control.
+
+**Technologies:** Python, JavaScript, Tizen, Web Technologies
+
+### 🤖 AI Council
+**Status: Prototype**
+
+An experimental offline-first AI organization using local language models and specialized agents, with an emphasis on human oversight and controlled execution.
+
+**Technologies:** Python, Local AI, Multi-Agent Systems
+
+### 📚 Sayfee Editorial
+**Status: In Development**
+
+A digital publishing platform designed to preserve and present literary and intellectual works through a modern Arabic reading experience.
+
+**Technologies:** WordPress, Web Design, Digital Publishing
+
+### ⚙️ Buho Launchpad Organizer
+**Status: Working Prototype**
+
+A macOS automation project for organizing applications into categories and maintaining an orderly application launcher.
+
+**Technologies:** Python, macOS Automation, SQLite
+
+---
+
+## 🎓 Education
+
+**Southern New Hampshire University (SNHU)**
+
+Bachelor of Science in Information Technology  
+Concentration: Data Analytics
+
+---
+
+## 🌱 Currently Learning & Improving
+
+- Python programming and automation
+- SQL and relational databases
+- Statistical analysis and data visualization
+- Software architecture and API development
+- Artificial intelligence and local AI systems
+
+---
+
+## 🤝 Connect With Me
+
+**GitHub:** https://github.com/amkino-services
+
+**AMKINO Portfolio:** In development
 
 ---
 
 <div align="center">
 
-**Always learning · Always building · Always improving**
+### Always Learning · Always Building · Always Improving 🚀
 
 </div>
